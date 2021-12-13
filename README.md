@@ -1,4 +1,4 @@
-We don't build blocks, we build **CUBES**
+We don't build blocks, we build **METACUBES**
 #### Creating an **Awesome** Cryptographic Platform
 ###### See [Documentation](https://nxi3.github.io) for more information
 
