@@ -6,6 +6,7 @@ cryptographic platform, one where the control of personal data, is yours and you
   
 I've currently set this project to **CLOSED SOURCE**, this is until I'm fully happy with the encrpytion system.
 
+You can follow the early development via [MetaLabs](https://metalabs.org.uk)
 <!---
 NXi3/NXi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
