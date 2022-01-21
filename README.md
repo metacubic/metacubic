@@ -1,12 +1,8 @@
-# The Tetra³ Project
---------------------
-Thank you for taking the time to visit the **Tetra³ Project**
-
-The platform is built with **Data Protection** in mind, though not just at a user level. With technology growing and our personal data becoming a commodity on the **Open** & **Closed** markets, it's time that the average user takes control of that data.
-
-At the time of writing this, there was [7.9](https://www.worldometers.info/world-population/) Billion people on our planet and that's a lot of user data that has a price on it.
-
+###### STATUS
+![](https://img.shields.io/website?down_color=RED&down_message=OFFLINE&label=META%C2%B3&style=for-the-badge&up_color=GREEN&up_message=ONLINE&url=http%3A%2F%2Fmetalabs.org.uk)
 ###### SOCIAL
 ![](https://img.shields.io/github/followers/NXi3?style=for-the-badge) ![](https://img.shields.io/twitter/follow/metatetracube?style=for-the-badge)
 ###### BUILDS
-![](https://img.shields.io/docker/automated/metanetwork/metaapp?style=for-the-badge)
+![](https://img.shields.io/docker/automated/metanetwork/metaapp?style=for-the-badge) ![](https://img.shields.io/github/checks-status/NXi3/tetracube/master?style=for-the-badge)
+###### SOURCE
+![](https://img.shields.io/github/languages/code-size/NXi3/tetracube?style=for-the-badge)
