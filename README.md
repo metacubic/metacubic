@@ -11,3 +11,4 @@ You can follow the early development via [MetaLabs](https://metalabs.org.uk)
 NXi3/NXi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Node.js CI](https://github.com/NXi3/tetracube/actions/workflows/node.js.yml/badge.svg)](https://github.com/NXi3/tetracube/actions/workflows/node.js.yml)
