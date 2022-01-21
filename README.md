@@ -1,14 +1,12 @@
-### Welcome to the Tetracube project - TETRA³
-###### [MetaLabs](https://metalabs.org.uk) - Where the FUN happens
-----------------------------------------
-The platform that I am building, is unique in the way I've developed it. Hopefully it will bring to the public, a fully functional
-cryptographic platform, one where the control of personal data, is yours and yours alone.  
-  
-I've currently set this project to **CLOSED SOURCE**, this is until I'm fully happy with the encrpytion system.
+# The Tetra³ Project
+--------------------
+Thank you for taking the time to visit the **Tetra³ Project**
 
-You can follow the early development via [MetaLabs](https://metalabs.org.uk)
-<!---
-NXi3/NXi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![CI](https://github.com/NXi3/tetracube/actions/workflows/main.yml/badge.svg)](https://github.com/NXi3/tetracube/actions/workflows/main.yml)
+The platform is built with **Data Protection** in mind, though not just at a user level. With technology growing and our personal data becoming a commodity on the **Open** & **Closed** markets, it's time that the average user takes control of that data.
+
+At the time of writing this, there was [7.9](https://www.worldometers.info/world-population/) Billion people on our planet and that's a lot of user data that has a price on it.
+
+###### SOCIAL
+![](https://img.shields.io/github/followers/NXi3?style=for-the-badge) ![](https://img.shields.io/twitter/follow/metatetracube?style=for-the-badge)
+###### BUILDS
+![](https://img.shields.io/docker/automated/metanetwork/metaapp?style=for-the-badge)
