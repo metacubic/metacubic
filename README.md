@@ -1,5 +1,5 @@
 ###### STATUS
-![](https://img.shields.io/website?down_color=RED&down_message=OFFLINE&label=META%C2%B3&style=for-the-badge&up_color=GREEN&up_message=ONLINE&url=http%3A%2F%2Fmetalabs.org.uk)
+![](https://img.shields.io/website?down_color=RED&down_message=OFFLINE&label=META%C2%B3&style=for-the-badge&up_color=GREEN&up_message=ONLINE&url=http%3A%2F%2Fmetalabs.org.uk) ![](https://img.shields.io/website?down_color=RED&down_message=OFFLINE&label=TETRA%C2%B3&style=for-the-badge&up_color=GREEN&up_message=ONLINE&url=http%3A%2F%2Fmetalabs.org.uk)
 ###### SOCIAL
 ![](https://img.shields.io/github/followers/NXi3?style=for-the-badge) ![](https://img.shields.io/twitter/follow/metatetracube?style=for-the-badge)
 ###### BUILDS
