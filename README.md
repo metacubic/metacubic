@@ -1,3 +1,3 @@
 # MetaCubic [Meta³] Network
-[Whitepaper Part One](https://blog.metacubic.org/its-white-but-its-only-the-idea/)  
-[Whitepaper Part Two](https://blog.metacubic.org/the-rabbit-hole-of-temptation-and-its-only-part-2/)
+![](https://blog.metacubic.org/content/images/2022/05/meta.1.png)  
+![](https://blog.metacubic.org/content/images/2022/05/meta.2.png)
